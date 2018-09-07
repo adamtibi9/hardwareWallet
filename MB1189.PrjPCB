@@ -39,23 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Library\STMicroelectronics STM32 F4.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=MB1189.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +55,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IAWXQOWI
 
-[Document3]
+[Document2]
 DocumentPath=..\Library\Imported BGA30N40P5X6_260X210X50.lia\Project Outputs for BGA30N40P5X6_260X210X50\BGA30N40P5X6_260X210X50.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=..\SEM_altium_libraries\connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\SEM_altium_libraries\connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\SEM_altium_libraries\crystals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\SEM_altium_libraries\crystals.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\SEM_altium_libraries\diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\SEM_altium_libraries\diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\SEM_altium_libraries\IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\SEM_altium_libraries\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\SEM_altium_libraries\modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\SEM_altium_libraries\modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\SEM_altium_libraries\opto.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\SEM_altium_libraries\opto.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\SEM_altium_libraries\other.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\SEM_altium_libraries\other.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\SEM_altium_libraries\passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\SEM_altium_libraries\passives.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=..\SEM_altium_libraries\protection.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\SEM_altium_libraries\protection.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\SEM_altium_libraries\relay.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\SEM_altium_libraries\relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=..\SEM_altium_libraries\sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=..\SEM_altium_libraries\sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\SEM_altium_libraries\transistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\SEM_altium_libraries\transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=..\Library\LIB_STBC03JR\STBC03JR\Altium\Imported PADS Libraries.PrjPcb\BGA30C40P5X6_225X259X60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=..\Library\LIB_STBC03JR\STBC03JR\Altium\Imported PADS Libraries.PrjPcb\STBC03JR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\Library\LIB_NX8045GB-8.000M-STD-CSJ-1\NX8045GB-8.000M-STD-CSJ-1\Altium\Imported PADS Libraries.PrjPcb\NX8045GB-8.000M-STD-CSJ-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=..\Library\LIB_NX8045GB-8.000M-STD-CSJ-1\NX8045GB-8.000M-STD-CSJ-1\Altium\Imported PADS Libraries.PrjPcb\NX8045GB8000MSTDCSJ1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=..\Library\LIB_NX3225GD-8MHZ-STD-CRA-3\NX3225GD-8MHZ-STD-CRA-3\Altium\Imported PADS Libraries.PrjPcb\NX3225GD-8MHZ-STD-CRA-3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=..\Library\LIB_NX3225GD-8MHZ-STD-CRA-3\NX3225GD-8MHZ-STD-CRA-3\Altium\Imported PADS Libraries.PrjPcb\RESC3226X100N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=..\Library\LIB_LD1117S18TR\LD1117S18TR\Altium\Imported PADS Libraries.PrjPcb\LD1117S18TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -614,9 +597,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ULESNSCS
 
-[Document35]
+[Document34]
 DocumentPath=..\Library\LIB_LD1117S18TR\LD1117S18TR\Altium\Imported PADS Libraries.PrjPcb\SOT230P700X190-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=..\Library\LIB_LD1117S33TR\LD1117S33TR\Altium\Imported PADS Libraries.PrjPcb\LD1117S33TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,9 +631,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AMACMPMF
 
-[Document37]
+[Document36]
 DocumentPath=..\Library\LIB_LD1117S33TR\LD1117S33TR\Altium\Imported PADS Libraries.PrjPcb\SOT230P700X180-4N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt DC-DC Converter.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt Power Controller.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt Voltage Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt Charge Pump.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=..\Library\Texas Instruments\TI Power Mgt Switching Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=..\Library\LIB_TPS63051RMWT\TPS63051RMWT\Altium\Imported PADS Libraries.PrjPcb\QFN50P250X250X100-12N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -786,7 +769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVNUSJLS
 
-[Document45]
+[Document44]
 DocumentPath=..\Library\LIB_TPS63051RMWT\TPS63051RMWT\Altium\Imported PADS Libraries.PrjPcb\TPS63051RMWT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=..\Library\LIB_SML-D14VWT86A\SML-D14VWT86A\Altium\Imported PADS Libraries.PrjPcb\LEDC1608X55N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALOHEBEA
 
-[Document47]
+[Document46]
 DocumentPath=..\Library\LIB_SML-D14VWT86A\SML-D14VWT86A\Altium\Imported PADS Libraries.PrjPcb\SML-D14VWT86A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=..\Library\STLD40DPUR\TPS61045DRBR\Altium\Imported PADS Libraries.PrjPcb\SON65P300X300X100-9N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=..\Library\STLD40DPUR\TPS61045DRBR\Altium\Imported PADS Libraries.PrjPcb\TPS61045DRBR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=..\Library\Hirose Electric\HRS Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVYNEYCL
 
-[Document51]
+[Document50]
 DocumentPath=..\Library\Hirose Electric\HRS FPC-FFC FH12 Series.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=..\Library\LIB_FH26-25S-0.3SHW(05)\FH26-25S-0.3SHW(05)\Altium\Imported PADS Libraries.PrjPcb\FH26-25S-0.3SHW(05).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -922,7 +905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=..\Library\LIB_FH26-25S-0.3SHW(05)\FH26-25S-0.3SHW(05)\Altium\Imported PADS Libraries.PrjPcb\FH2625S03SHW05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,7 +922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRSCAAWS
 
-[Document54]
+[Document53]
 DocumentPath=..\Library\LIB_LD3985M33R\LD3985M33R\Altium\Imported PADS Libraries.PrjPcb\LD3985M33R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -954,9 +937,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DWAGMLSG
 
-[Document55]
+[Document54]
 DocumentPath=..\Library\LIB_LD3985M33R\LD3985M33R\Altium\Imported PADS Libraries.PrjPcb\SOT95P280X145-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=..\Library\LIB_FH19C-6S-0.5SH(05)\FH19C-6S-0.5SH(05)\Altium\Imported PADS Libraries.PrjPcb\FH19C-6S-0.5SH(05).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=..\Library\LIB_LTST-E682KGKFWT\LTST-E682KGKFWT\Altium\Imported PADS Libraries.PrjPcb\4-PIN_3528.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=..\Library\LIB_LTST-E682KGKFWT\LTST-E682KGKFWT\Altium\Imported PADS Libraries.PrjPcb\LTST-E682KGKFWT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1024,7 +1007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=..\Library\LIB_ST890CDR\ST890CDR\Altium\Imported PADS Libraries.PrjPcb\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=..\Library\LIB_FH19C-6S-0.5SH(05)\FH19C-6S-0.5SH(05)\Altium\Imported PADS Libraries.PrjPcb\FH19C6S05SH05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,7 +1041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITJKSVNJ
 
-[Document61]
+[Document60]
 DocumentPath=..\Library\LIB_ST890CDR\ST890CDR\Altium\Imported PADS Libraries.PrjPcb\ST890CDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1075,7 +1058,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=..\Library\LIB_DX4R005HJ5R2000\DX4R005HJ5R2000\Altium\Imported PADS Libraries.PrjPcb\DX4R005HJ5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1092,7 +1075,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=..\Library\LIB_DX4R005HJ5R2000\DX4R005HJ5R2000\Altium\Imported PADS Libraries.PrjPcb\DX4R005HJ5R2000.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1109,7 +1092,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=..\Library\LIB_SM2T3V3A\SM2T3V3A\Altium\Imported PADS Libraries.PrjPcb\DO-216AA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1126,7 +1109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBLGIXMR
 
-[Document65]
+[Document64]
 DocumentPath=..\Library\LIB_SM2T3V3A\SM2T3V3A\Altium\Imported PADS Libraries.PrjPcb\SM2T3V3A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1143,7 +1126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document65]
 DocumentPath=..\Library\LIB_STM32F103CBT6\STM32F103CBT6\Altium\Imported PADS Libraries.PrjPcb\QFP50P900X900X160-48N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,7 +1143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=..\Library\LIB_STM32F103CBT6\STM32F103CBT6\Altium\Imported PADS Libraries.PrjPcb\STM32F103CBT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1177,7 +1160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document67]
 DocumentPath=..\Library\Imported VDFN-8M1-A.lia\VDFN-8M1-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1194,7 +1177,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=..\Library\LIB_1008CS-331XJLB\1008CS-331XJLB\Altium\Imported PADS Libraries.PrjPcb\1008CS-331XJLB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1211,7 +1194,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=..\Library\LIB_1008CS-331XJLB\1008CS-331XJLB\Altium\Imported PADS Libraries.PrjPcb\INDC2928X203N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1228,7 +1211,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=..\Library\QFN-8\Imported QFN-8.lia\Project Outputs for QFN-8\QFN-8.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +1228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=..\Library\QFN-8\Imported QFN-8.lia\QFN-8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +1245,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIFWVCBM
 
-[Document73]
+[Document72]
 DocumentPath=..\Library\LIB_MX25L12835FM2I-10G\MX25L12835FM2I-10G\Altium\Imported PADS Libraries.PrjPcb\MX25L12835FM2I-10G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,7 +1262,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=..\Library\LIB_MX25L12835FM2I-10G\MX25L12835FM2I-10G\Altium\Imported PADS Libraries.PrjPcb\SOIC127P790X216-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1296,7 +1279,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEJEMHER
 
-[Document75]
+[Document74]
 DocumentPath=..\Library\LIB_TACTA-64N\TACTA-64N\Altium\Imported PADS Libraries.PrjPcb\TACTA64N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1313,7 +1296,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document75]
 DocumentPath=..\Library\LIB_TACTA-64N\TACTA-64N\Altium\Imported PADS Libraries.PrjPcb\TACTA-64N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1330,41 +1313,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
-DocumentPath=..\Library\LIB_XC6210B302MR-G\XC6210B302MR-G\Altium\Imported PADS Libraries.PrjPcb\SOT95P280X120-5N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document78]
-DocumentPath=..\Library\LIB_XC6210B302MR-G\XC6210B302MR-G\Altium\Imported PADS Libraries.PrjPcb\XC6210B302MR-G.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document79]
+[Document76]
 DocumentPath=DSI_LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1381,7 +1330,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTVAEYWV
 
-[Document80]
+[Document77]
 DocumentPath=MB1189.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1398,7 +1347,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXNFSHUF
 
-[Document81]
+[Document78]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1415,7 +1364,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTHHBJKB
 
-[Document82]
+[Document79]
 DocumentPath=Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1432,7 +1381,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APETKCBK
 
-[Document83]
+[Document80]
 DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1449,7 +1398,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THGXGWDG
 
-[Document84]
+[Document81]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1466,7 +1415,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKPVDIOP
 
-[Document85]
+[Document82]
 DocumentPath=QSPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1483,7 +1432,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAATBNGJ
 
-[Document86]
+[Document83]
 DocumentPath=ST_LINK_V2-1.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1500,6 +1449,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHLMPVBR
 
+[Document84]
+DocumentPath=LIB_HMC452ST89E\HMC452ST89E\Altium\Imported PADS Libraries.PrjPcb\HMC452ST89E.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document85]
+DocumentPath=LIB_HMC452ST89E\HMC452ST89E\Altium\Imported PADS Libraries.PrjPcb\SOT150P402X160-4N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document86]
+DocumentPath=LIB_PD84001\PD84001\Altium\Imported PADS Libraries.PrjPcb\PD84001.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMEYNTOF
+
+[Document87]
+DocumentPath=LIB_PD84001\PD84001\Altium\Imported PADS Libraries.PrjPcb\ST-SOT-89_1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWRHVUVG
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.BOM
 DItemRevisionGUID=
@@ -1514,6 +1531,14 @@ IncludeSubFolders=1
 
 [SearchPath2]
 Path=..\Library\KEMET Electronics\*.*
+IncludeSubFolders=1
+
+[SearchPath3]
+Path=*.*
+IncludeSubFolders=1
+
+[SearchPath4]
+Path=LIB_HMC452ST89E\HMC452ST89E\Altium\*.*
 IncludeSubFolders=1
 
 [Configuration1]
