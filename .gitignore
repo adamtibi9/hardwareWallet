@@ -1,0 +1,12 @@
+History*/
+__Previews*/
+*.c
+*.p
+*.d
+*.bat
+*.txt
+LIB_*/
+EMIF*/
+Project Logs*/
+Project Outputs*/
+STMPS*/
