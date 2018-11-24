@@ -1396,7 +1396,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=APETKCBK
+DocumentUniqueId=NIMJVRDI
 
 [Document81]
 DocumentPath=Peripherals.SchDoc
@@ -1688,40 +1688,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document98]
-DocumentPath=FH12A-24S-0.5SH(55)\Altium\Imported PADS Libraries.PrjPcb\FH12A-24S-0.5SH(55).SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document99]
-DocumentPath=FH12A-24S-0.5SH(55)\Altium\Imported PADS Libraries.PrjPcb\FH12A-24S-0.5SH.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document100]
 DocumentPath=FH12-10S-0.5SH(1)(98)\Altium\Imported PADS Libraries.PrjPcb\FH12-10S-0.5SH(1)(98).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1738,8 +1704,76 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document101]
+[Document99]
 DocumentPath=FH12-10S-0.5SH(1)(98)\Altium\Imported PADS Libraries.PrjPcb\FH1210S05SH198.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document100]
+DocumentPath=LIB_LM3671MF-1.5_NOPB\Altium\Imported PADS Libraries.PrjPcb\LM3671MF-1.5_NOPB.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document101]
+DocumentPath=LIB_LM3671MF-1.5_NOPB\Altium\Imported PADS Libraries.PrjPcb\SOT95P280X145-5N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document102]
+DocumentPath=2.2uH_inductor\Altium\Imported PADS Libraries.PrjPcb\INDPM4532X280N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document103]
+DocumentPath=2.2uH_inductor\Altium\Imported PADS Libraries.PrjPcb\LQH43CN100K03L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
