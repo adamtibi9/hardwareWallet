@@ -1790,14 +1790,18 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MantaDragon_disco\Footprint Comparison - MB1189.html
+DocumentPath=Project Outputs for MantaDragon_disco\BGA Escape Route - MB1189.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.BOM
+DocumentPath=Project Outputs for MantaDragon_disco\Footprint Comparison - MB1189.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for MantaDragon_disco\MB1189.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.CSV
 DItemRevisionGUID=
 
