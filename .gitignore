@@ -5,6 +5,7 @@ __Previews*/
 *.d
 *.bat
 *.txt
+*.pdf
 LIB_*/
 EMIF*/
 Project Logs*/
