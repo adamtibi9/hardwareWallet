@@ -117,3 +117,6 @@ STMPS*/
 /47346-1001/47346-1001.epw
 /47346-1001/Altium/Imported PADS Libraries.PrjPcb/PADS Libraries.LOG
 /47346-1001/Altium/Readme.html
+*.LOG
+*.epw
+*.html
