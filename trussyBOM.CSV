@@ -1,0 +1,71 @@
+Bill of Material for ,,,,
+On 1/2/2019 at 10:50:11 PM,,,,
+,,,,
+Comment,Pattern,Quantity,Components,
+,,,,
+Do not solder in!,,,"Rdiv1, Rdiv2",Resistor
+2K7,RES - 0402,2,"R12, R13",Resistor
+1K5,RES - 0402,2,"R14, R15",Resistor
+0R,RES - 0402,9,"R7, R22, R123, R131, R132, R133, R159, R160, R161",Resistor
+10R,RES - 0402,2,"R8, R58",Resistor
+100nF,CAP - 0402,1,C3,Capacitor
+100R,RES - 0402,1,R10,Resistor
+100K,RES - 0402,2,"R34, R59",Resistor
+100nF,CAP - 0402,48,"C5, C6, C7, C10, C14, C15, C16, C17, C21, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C57, C58, C59, C62, C64, C67, C68, C69, C70, C71, C72, C73, C74, C75, C77, C78, C84, C87, C88, C89, C90, C91, C92, C95, C97",Capacitor
+10K,RES - 0402,3,"R55, R122, R149",Resistor
+10nF,CAP - 0402,2,"C63, C66",Capacitor
+10uF,A,2,"C24, C56",Polarized Capacitor
+10uF,CAP - 0402,5,"C2, C9, C19, C22, C23",Capacitor
+10uF,CAP - 0805,1,C4,Capacitor
+part no.: 1269AS-H-1R5M=P2,1008 (2520 Metric),1,L6,1.5uH Inductor
+1K,RES - 0402,2,"R31, Rpre",Resistor
+1M,RES - 1206,1,R1,Resistor
+1nF,CAP - 0402,1,C1,Capacitor
+1uF,A,3,"C65, C80, C86",Polarized Capacitor
+1uF,CAP - 0402,1,C20,Capacitor
+ part no.: NRH3010T2R2MNV,nonstandard,1,L3,2.2uH inductor
+2.2uF,CAP - 0402,4,"C8, C76, C81, C96",Capacitor
+200K,RES - 0402,1,R11,Resistor
+part no.: 202656-0021,nonstandard,1,Bat,"MOLEX - 202656-0021 - PLUG HOUSING, 2POS, NYLON, BLACK"
+220K,RES - 0402,1,R19,Resistor
+3.0pF,CAP - 0402,2,"C93, C94",Capacitor
+4.7uF,CAP - 0402,1,C18,Capacitor
+4.7uF/10V,CAP - 1206,1,C61,Polarized Capacitor
+4.7uF/50V,CAP - 1206,1,C79,Capacitor
+4.7uF,A,3,"C60, C82, C98",Polarized Capacitor
+430R,RES - 0402,1,Rset,Resistor
+470K,RES - 0603,1,R18,Resistor
+part no.: 47346-1001,micro USB,1,CN4,MOLEX - 47346-1001 - MULTIPOLE CONNECTOR
+47K,RES - 0402,1,R5,Resistor
+4K7,RES - 0402,7,"R3, R4, R6, R24, R25, R36, R118",Resistor
+510R,RES - 0402,1,R2,Resistor
+8.2pF,CAP - 0402,2,"C83, C85",Capacitor
+part no.: AP7365-28WG-7DICT-ND,SOT25,1,U2,LDO Voltage Regulators 700mA High Speed Votage Regulator
+part no.: BAT60JFILM,SOD323,1,D4,diode
+BC817,SOT23,1,T2,transistor
+part no.: BK1608HS600-T,0603 (1608 Metric),3,"L1, L2, L7",Inductor
+part no.: FCM1608KF-601T03,0603 (1608 Metric),1,L5,Inductor
+part no.: FH12-24S-0.5SH,FH12-24S-0.5SH,1,CN10,"FH12 Series, Flip-Lock"" SMT/ZIF FFC/FPC Connector - 0.5mm Spaced"""
+part no.: DF30FC-40DS-0.4V,DF30FC-40DS-0.4V,1,CN3,"Hirose DF30 Series 0.4mm 40 Way 2 Row Straight PCB Socket Surface Mount Board to Board, Board to FPC"
+Diode,SOD123,2,"D1, D2",diode
+part no.: EMIF02-USB03F2,flip chip,1,U3,New STMicroelectronics EMIF02-USB03F2 EMI Filter & ESD Protector
+part no.: FH12-10S-0.5SH,FH12-10S-0.5SH,1,CN2,FFC & FPC Connectors 10P SMT HORIZONTAL .5MM PITCH
+Green,LED 0603 (1608 Metric),1,LD1,"Typical RED, GREEN, YELLOW, AMBER GaAs LED"
+part no.: LM3671MF-1.5_NOPB,SOT23-5,1,U1,"2MHz, 600mA Step-Down DC-DC Converter"
+part no.: LQH32PH4R7NN0L,C1210_L,1,L4,Inductor
+part no.: MT48LC4M32B2B5-6A, 90-ball VFBGA,1,U4,Micron Memory SDRAM
+part no.: MX25L12835FM2I-10G, 8-SOP (200mil),1,U5,"Macronix MX25L12835FM2I-10G 128Mbit Flash Memory; 3V, SOP, 8-Pin"
+part no.: NCP18XH103F03RB,0603 (1608 Metric),1,TH,Thermistor NTC 10K Ohm 1% 2-Pin 0603 Surface Mount Solder Pad 3434K T/R
+NX3215SA-32.768K,SMD,1,X3,"Crystal 32.768kHz, 6pF, -+20PPM, R=50K, SMD"
+NX3225GD-8.00M,SMD,1,X2,"Crystal 8Mhz, 8pF, -+50PPM, SMD"
+Do not solder in!,THT,1,VM,
+Do not solder in!,THT,1,CN5,
+Do not solder in!,THT,1,CN1,
+SKSLLBE010,SMD,1,BTN,"Black Button Tactile Switch, SPST-NO 50 mA 0.5mm Surface Mount"
+STBC03JR,flip chip,1,STBC,"STMICROELECTRONICS - STBC03JR - BATTERY CHARGER, LI-ION/POL, FLIPCHIP-30"
+STLD40DPUR,QFN-8,1,U13,
+STM32F469NIH6,STM-TFBGA216,1,U14,Microcontroller
+STPS1L40M,DO-216AA,1,Z1,Schottky Diode
+TPS63051RMWT,12-VFQFN,1,BB1,Switching Voltage Regulators Tiny Single Ind Buck Boost Convter
+TPS79918DDCT/R,SOT-23-Thin-5,1,U6,"Low Dropout Voltage Regulator, 0.2A, 1.8V 1%, 2.7 to 6.5Vin, 5-Pin SOT"
+PCA9306TDCURQ1,VSSOP-8,1,U7,Automotive Dual Bidirectional I2C Bus and SMBus Voltage-Level Translator
