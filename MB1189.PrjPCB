@@ -1824,74 +1824,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document106]
-DocumentPath=Project Outputs for MantaDragon_disco\BGA Escape Route - MB1189.html
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document107]
-DocumentPath=Project Outputs for MantaDragon_disco\Footprint Comparison - MB1189.html
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document108]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.BOM
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document109]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.CSV
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document110]
 DocumentPath=SKSLLBE010\Altium\Imported PADS Libraries.PrjPcb\SKSLLBE010.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1908,7 +1840,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INQGJTHQ
 
-[Document111]
+[Document107]
 DocumentPath=SKSLLBE010\Altium\Imported PADS Libraries.PrjPcb\SKSLLBE010.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1925,7 +1857,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document112]
+[Document108]
 DocumentPath=Pico-EZmate Slim Wire-to-Board Header\Altium\Imported PADS Libraries.PrjPcb\202656-0021.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1942,7 +1874,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document113]
+[Document109]
 DocumentPath=Pico-EZmate Slim Wire-to-Board Header\Altium\Imported PADS Libraries.PrjPcb\2026560021.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1959,7 +1891,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXXCICAU
 
-[Document114]
+[Document110]
 DocumentPath=NCP18XH103F03RB\Altium\Imported PADS Libraries.PrjPcb\NCP18XH103F03RB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1976,7 +1908,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document115]
+[Document111]
 DocumentPath=NCP18XH103F03RB\Altium\Imported PADS Libraries.PrjPcb\THRMC1608X95N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1993,7 +1925,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document116]
+[Document112]
 DocumentPath=PCA9306TDCURQ1\Altium\Imported PADS Libraries.PrjPcb\PCA9306TDCURQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2010,7 +1942,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document117]
+[Document113]
 DocumentPath=PCA9306TDCURQ1\Altium\Imported PADS Libraries.PrjPcb\SOP50P310X90-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2027,7 +1959,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document118]
+[Document114]
 DocumentPath=TPS79918DDCT\Altium\Imported PADS Libraries.PrjPcb\SOT95P280X110-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2044,7 +1976,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document119]
+[Document115]
 DocumentPath=TPS79918DDCT\Altium\Imported PADS Libraries.PrjPcb\TPS79918DDCT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2061,7 +1993,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document120]
+[Document116]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2079,127 +2011,111 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MantaDragon_disco\Design Rule Check - MB1189.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.G1
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.G2
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM20
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.REP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for MantaDragon_disco\MB1189.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for MantaDragon_disco\Pick Place for MB1189.txt
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for MantaDragon_disco\Power.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for MantaDragon_disco\Power.CSV
 DItemRevisionGUID=
 
 [SearchPath1]
