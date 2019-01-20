@@ -28,7 +28,7 @@ part no.: 1269AS-H-1R5M=P2,1008 (2520 Metric),1,L6,1.5uH Inductor
 200K,RES - 0402,1,R11,Resistor
 part no.: 202656-0021,nonstandard,1,Bat,"MOLEX - 202656-0021 - PLUG HOUSING, 2POS, NYLON, BLACK"
 220K,RES - 0402,1,R19,Resistor
-3.0pF,CAP - 0402,2,"C93, C94",Capacitor
+3.0pF,CAP - 0603,2,"C93, C94",Capacitor
 4.7uF,CAP - 0402,1,C18,Capacitor
 4.7uF/10V,CAP - 1206,1,C61,Polarized Capacitor
 4.7uF/50V,CAP - 1206,1,C79,Capacitor
@@ -39,7 +39,7 @@ part no.: 47346-1001,micro USB,1,CN4,MOLEX - 47346-1001 - MULTIPOLE CONNECTOR
 47K,RES - 0402,1,R5,Resistor
 4K7,RES - 0402,7,"R3, R4, R6, R24, R25, R36, R118",Resistor
 510R,RES - 0402,1,R2,Resistor
-8.2pF,CAP - 0402,2,"C83, C85",Capacitor
+8.2pF,CAP - 0603,2,"C83, C85",Capacitor
 part no.: AP7365-28WG-7DICT-ND,SOT25,1,U2,LDO Voltage Regulators 700mA High Speed Votage Regulator
 part no.: BAT60JFILM,SOD323,1,D4,diode
 BC817,SOT23,1,T2,transistor
