@@ -1311,7 +1311,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VJRCUOBL
+DocumentUniqueId=CBEHWSRP
 
 [Document76]
 DocumentPath=trussy.PcbDoc
@@ -1702,7 +1702,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ILOMQEBP
 
 [Document99]
 DocumentPath=FH12-10S-0.5SH(1)(98)\Altium\Imported PADS Libraries.PrjPcb\FH12-10S-0.5SH(1)(98).SchLib
@@ -2028,326 +2028,110 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).DRR
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).G1
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).G2
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GBL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GKO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM2
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM10
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM12
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM13
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM15
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GM20
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GP1
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GP2
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GPB
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GPT
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GTL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GTO
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GTP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).GTS
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).LDP
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).REP
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for MantaDragon_disco\MB1189.~(548).TXT
-DItemRevisionGUID=
-
-[GeneratedDocument55]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.G1
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.G2
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GM20
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.REP
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for MantaDragon_disco\trussy.TXT
 DItemRevisionGUID=
 
@@ -2706,7 +2490,7 @@ OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
 OutputType3=CompositeDrill
 OutputName3=Composite Drill Drawing
 OutputDocumentPath3=
@@ -2758,7 +2542,7 @@ OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 Configuration11_Name1=OutputConfigurationParameter1
-Configuration11_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777218~1,16842754~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908298~1,16908300~1,16908301~1,16908303~1,16908308~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration11_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777218~1,16842754~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908298~1,16908300~1,16908301~1,16908303~1,16908308~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
